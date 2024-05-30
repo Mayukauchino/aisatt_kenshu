@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* header */
+
+header {
+	display: flex;
+	padding: 20px 52px;
+	background-color: #0d87ce;
+	color: #fff;
+	font-size: 30px;
+	
+}
+
+label{
+		padding: 0px 10px;
+}
+
+form{
+		display:inline;
+}
+
+/* buttom */
+button {
+	background-color: #0d87ce;
+	width : 130px;
+	border-radius: 10px;
+	font-size: 20px;
+	border: none;
+	color: #fff;
+	padding: 12px 10px;
+	text-align: center;
+	margin: 10px 10px;
+	cursor: pointer;
+	display:inline-block;
+}
+
+footer{
+	padding: 0px 32px;
+	margin: 0px 10px;
+	
+}
+
+span{
+	display: block;
+	text-align: right;
+}
+
+.detail_button{
+	background-color: #0d87ce;
+	width : 130px;
+	border-radius: 10px;
+	font-size: 20px;
+	border: none;
+	color: #fff;
+	padding: 12px 10px;
+	text-align: center;
+	margin: 0px 10px;
+	cursor: pointer;
+	float: right;
+}
+
+.list_div{
+	border: 2px solid #0d87ce;
+	border-radius: 10px;
+	font-size: 30px;
+	padding: 10px 50px;
+	margin: 10px 50px;
+	width: auto;
+	height: 100px;
+}
+
+.title_div{
+	font-size: 20px;
+	padding: 5px 50px;
+	margin: 5px 0px 40px 0px;
+	width: auto;
+	height: 60px;
+}
+
+.content_div{
+	font-size: 15px;
+	padding: 5px 50px;
+	margin: 5px 0px;
+	width: auto;
+	height: 300px;
+}
+
+input {
+	width: 100%;
+	height: 90%;
+	border-radius: 10px;
+	border: 2px solid #0d87ce;
+	padding: 5px 10px;
+
+}
+.messageArea{
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.messageWrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  width: 70%;
+  max-width: 500px;
+  padding: 10px 30px;
+  background-color: #fff;
+}
+
+textarea{
+	width: 100%;
+	height: 90%;
+	border-radius: 10px;
+	border: 2px solid #0d87ce;
+	padding: 5px 10px;
+	overflow-y: scroll;
+    text-align: left;
+}
+
+.edit_text{
+	width: 100%;
+	height: 90%;
+	border-radius: 10px;
+	border: 2px solid #0d87ce;
+	padding: 5px 10px;
+	overflow-wrap: break-word;
+}
+
+/*modal関連*/
+.modalArea {
+  display: none;
+  position: fixed;
+  z-index: 10; /*サイトによってここの数値は調整 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.modalWrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  width: 70%;
+  max-width: 500px;
+  padding: 10px 30px;
+  background-color: #fff;
+}
+
+#openModal{
+	  transform:translate(0%,0%);
+}
+.modalBg {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(30,30,30,0.9);
+}
