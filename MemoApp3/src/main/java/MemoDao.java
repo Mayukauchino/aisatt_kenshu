@@ -195,7 +195,7 @@ public class MemoDao {
 
 	/**
 	 * 指定されたメモ情報を削除します<br>
-	 * @param memoId 削除対象とするメモのID
+	 * @param memoId 削除対象とするメモのID!!
 	 * @throws MemoException メモ情報の削除に失敗した際に発生します
 	 */
 	public void deleMemo(int memoId) throws MemoException {
