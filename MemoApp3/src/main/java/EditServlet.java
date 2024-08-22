@@ -44,7 +44,7 @@ public class EditServlet extends HttpServlet {
 		String memoCont = null;	//メモ内容変数
 		final int TITL_LENGTH_CHECK = 50; //タイトル文字数チェック定数
 		final int CONT_LENGTH_CHECK = 1000; //内容文字数チェック定数
-
+		final int AAA =100;
 		try {
 			request.setCharacterEncoding("UTF-8");
 			//メモのID取得
