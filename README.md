@@ -1,8 +1,14 @@
+# NAME
+メモアプリケーション
 
+# OVER VIEW
+利用者新規登録、ログイン、メモ新規登録、一覧表示、詳細表示、編集、削除の機能を搭載したWebアプリケーション
 
-
-
-
+# Requirement
+- windows OS
+- eclipse 2023
+- MySQL 9.0
+  
 ## README STATS
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukauchino&layout=compact&show_icons=true&theme=onedark" />
