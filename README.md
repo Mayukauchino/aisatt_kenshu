@@ -23,3 +23,8 @@ DB:MySQL
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mayukauchino&theme=onedark&show_icons=ture" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
