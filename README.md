@@ -1,4 +1,8 @@
 
+
+
+
+
 ## README STATS
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukauchino&layout=compact&show_icons=true&theme=onedark" />
@@ -8,6 +12,6 @@
 ## USE SKILL
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,java,javascript,html,css" />
   </a>
 </p>
