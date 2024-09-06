@@ -1,10 +1,10 @@
 # 🗳name
 メモアプリケーション
 
-# ✏over view
+## ✏over view
 利用者新規登録、ログイン、メモ新規登録、一覧表示、詳細表示、編集、削除の機能を搭載したWebアプリケーション
 
-# 📱requirement
+## 📱requirement
 - windows OS
 - eclipse 2023
 - MySQL 8.0
