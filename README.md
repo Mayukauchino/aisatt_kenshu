@@ -7,7 +7,7 @@
 # Requirement
 - windows OS
 - eclipse 2023
-- MySQL 9.0
+- MySQL 8.0
 
 ## USE SKILL
 <p align="left">
