@@ -10,8 +10,8 @@
 - SQLインジェクション対策のためのエスケープ処理
 
 ## 📱requirement
-- windows OS
-- eclipse 2023
+- windows 
+- eclipse 2023 java
 - MySQL 8.0
 
 ## 🌱use skill
